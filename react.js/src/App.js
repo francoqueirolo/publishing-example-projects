@@ -10,7 +10,7 @@ class App extends Component {
           label="Web components in reactjs"
           value="task01"
           disabled="false"
-          checked="true"
+          checked="false"
         ></ibk-checkbox>
       </div>
     );

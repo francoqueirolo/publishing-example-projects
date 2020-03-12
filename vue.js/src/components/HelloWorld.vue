@@ -4,7 +4,7 @@
         label="Web components in vuejs"
         value="task01"
         disabled="false"
-        checked="true"
+        checked="false"
       >
       </ibk-checkbox>
   </div>
