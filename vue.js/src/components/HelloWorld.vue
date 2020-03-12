@@ -1,14 +1,12 @@
 <template>
   <div class="app">
-    <body>
       <ibk-checkbox
-        label="Web components in vue"
+        label="Web components in vuejs"
         value="task01"
         disabled="false"
         checked="true"
       >
       </ibk-checkbox>
-    </body>
   </div>
 </template>
 
